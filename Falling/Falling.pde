@@ -1,3 +1,5 @@
+import controlP5.*;
+
 ArrayList particles = new ArrayList();
 float box = 150, num;
  
